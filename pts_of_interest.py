@@ -42,7 +42,7 @@ def distance(lat1,lon1,lat2,lon2):
 
 def image_writer(lat,lon,asset,csv,directory,max_distance):
 
-	csv.write(asset) # writing asset of present drone location from srt in output.csv 
+	csv.write(asset) # writing point of interest to csv
 
 	for root,subdir,files in os.walk(directory):
 
