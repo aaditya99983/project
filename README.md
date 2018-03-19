@@ -8,6 +8,7 @@
  - Tkinter
  - piexif
  - csv
+ ----------------------------
  *all dependant modules can be installed by "pip install <module>" command
  
  # FILES
