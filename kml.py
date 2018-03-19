@@ -20,7 +20,7 @@ def main():
 
 	root.destroy()
 
-
+	#----------loading input (drone flight .srt ) file------------------------------ 
 	
 	subs = pysrt.open(root.filename)
 
@@ -45,7 +45,7 @@ def main():
 			
 			bar.update(i)
 			
-			kml.save(root.file_path) #this can be modified to write at desired location with help of python GUI's or manually
+			kml.save(root.file_path)
 
 		except IndexError:
 			break
