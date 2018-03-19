@@ -19,4 +19,5 @@
  # NOTE
  - .srt file must have valid entries 
  - all parameters are taken at runtime
+ *** time at which the drone's input coordinate couldn't be read are left vacant in output csv*****
  
