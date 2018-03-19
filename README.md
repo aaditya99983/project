@@ -18,5 +18,5 @@
 
  # NOTE
  - .srt file must have valid entries 
- - all input should be taken at runtime
+ - all parameters are taken at runtime
  
