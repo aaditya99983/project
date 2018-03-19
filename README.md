@@ -11,7 +11,7 @@
  *all dependant modules can be installed by "pip install <module>" command
  
  # FILES
- -images_csv_generator.py - generates list of images that are within required distance for every position in a drone flight       (SRT) data
+ -images_csv_generator.py - generates list of images that are within required distance for every position in a drone flight(.SRT )file     
  -pts_of_interest.py -generates list of images that are within required distance for coordinated provided
  -kml.py-generates kml for drone flight 
 
