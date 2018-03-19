@@ -30,7 +30,7 @@ def main():
 	bar.start()
 
 	i=0
-	#------------------simplekml lib used to generate kml-----------------------
+	#------------------simplekml module used to generate kml-----------------------
 	kml=simplekml.Kml()
 
 	while True:
