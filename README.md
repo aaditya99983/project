@@ -9,7 +9,7 @@
  - piexif
  - csv
  ----------------------------
- *all dependant modules can be installed by "pip install x"  where x=<module> command
+ *all dependant modules can be installed by "pip install x"  where x = module command
  
  # FILES
  - images_csv_generator.py - generates list of images that are within required distance for every position in a drone              flight(.SRT )file     
